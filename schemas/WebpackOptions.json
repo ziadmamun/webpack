@@ -1270,7 +1270,7 @@
             },
             {
               "instanceof": "Function",
-              "tsType": "Function"
+              "tsType": "((pathData: import(\"../lib/Compilation\").PathData) => string)"
             }
           ]
         },
