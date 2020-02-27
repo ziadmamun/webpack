@@ -805,7 +805,7 @@ describe("Defaults", () => {
 			-           "idHint": "vendors",
 			-           "priority": -10,
 			-           "reuseExistingChunk": true,
-			-           "test": /[\\\\\\/]node_modules[\\\\\\/]/i,
+			-           "test": /[\\\\/]node_modules[\\\\/]/i,
 			-         },
 			-       },
 			-       "chunks": "async",
